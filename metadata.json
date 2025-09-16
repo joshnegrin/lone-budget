@@ -1,0 +1,5 @@
+{
+  "name": "Monthly Budget Visualizer",
+  "description": "A simple and elegant application to track your monthly income and expenses. Visualize your spending habits with an interactive chart and take control of your finances.",
+  "requestFramePermissions": []
+}
